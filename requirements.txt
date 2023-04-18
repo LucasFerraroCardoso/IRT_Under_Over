@@ -1,0 +1,8 @@
+numpy==1.23.4
+matplotlib
+openml
+pandas
+rpy2
+scikit-learn
+tqdm
+tzlocal
